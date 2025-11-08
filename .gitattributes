@@ -1,5 +1,7 @@
 Plugins/3.01.7z filter=lfs diff=lfs merge=lfs -text
 Plugins/3.02.7z filter=lfs diff=lfs merge=lfs -text
+Plugins/3.03.7z filter=lfs diff=lfs merge=lfs -text
 Server/MetahumanAudio2Face_V3.01.7z filter=lfs diff=lfs merge=lfs -text
 Server/MetahumanAudio2Face_V3.02.7z filter=lfs diff=lfs merge=lfs -text
+Server/MetahumanAudio2Face_V3.05.7z filter=lfs diff=lfs merge=lfs -text
 Demo/Demo_UE530.7z filter=lfs diff=lfs merge=lfs -text
